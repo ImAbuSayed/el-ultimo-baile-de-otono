@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/el-ultimo-baile-de-otono/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: El último baile de otoño](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-ultimo-baile-de-otono/) |
+| **Get License** | [Get a Licensing Quote for El último baile de otoño](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-ultimo-baile-de-otono/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Esta noche la luna nos llama, no te hagas la fría
+> Baby, sabes que mi boca te busca y tú eres mi guía
+> Bailando en la oscuridad, dejando la copa vacía
+> Dime que te quedas conmigo hasta que amanezca el día
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
