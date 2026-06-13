@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - El último baile de otoño
+
+This log tracks the cryptographic history and versioning for the song **El último baile de otoño** (el-ultimo-baile-de-otono).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-14T05:06:28.875223 | `v1` | `52ae71848e9273d7014bed8bacd5b7b56fb725e28b20f8025e97db20def6ac0d` | `93163044d7c3e5b80c4ec72b6620d0656afb87700edd01ede09f8bb01159943f` | `2026-06-14_el-ultimo-baile-de-otono-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
